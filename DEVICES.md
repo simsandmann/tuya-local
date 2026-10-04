@@ -290,7 +290,6 @@
 - Beok TGR81 thermostat _(also reported working with Myuet ME98, Avatto WT81/ME81)_
 - Beok SH-TGM50-WP, TGM50, TOL47, TR8B thermostats
 - Beok TR9B _(rebadged as Vancoo and perhaps others)_, TR9B-AC2 thermostats
-- Beok TCC31 thermostat
 - BHT-002-GALW and GABW thermostats _(rebadged as many different brands)_
 - Brade MC6 thermostat _(rebadged as many different brands)_
 - Coleman-Mach RVP 9240-391 thermostat
